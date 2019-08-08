@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369352930316",
+    "firebase_url": "https://travelmantic-2d708.firebaseio.com",
+    "project_id": "travelmantic-2d708",
+    "storage_bucket": "travelmantic-2d708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369352930316:android:d65410073fb3cd2b",
+        "android_client_info": {
+          "package_name": "tk.felixcity.com.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369352930316-gm7oop9t8rvdqiv4n31vncdau9racu4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.felixcity.com.travel",
+            "certificate_hash": "04b456a476fe02a10ec9e7b80e6cac8fb0ee29fd"
+          }
+        },
+        {
+          "client_id": "369352930316-rjamq1m55p2g51rp6khuacbu20jq2gk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6EqoAlGEY73dLAKwboRKPJOGFs5o1EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369352930316-rjamq1m55p2g51rp6khuacbu20jq2gk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
